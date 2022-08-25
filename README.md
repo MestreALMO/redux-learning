@@ -4,8 +4,6 @@
   <h3 align="center">Redux Learning</h3>
 
   <p align="center">
-    <br />
-    <br />
     <img src="_README.md/app.gif" alt="gif">
   </p>
 </p>
