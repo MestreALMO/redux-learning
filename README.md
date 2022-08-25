@@ -4,7 +4,6 @@
   <h3 align="center">Redux Learning</h3>
 
   <p align="center">
-    My portfolio v3
     <br />
     <br />
     <img src="_README.md/app.gif" alt="gif">
